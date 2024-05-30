@@ -1,13 +1,18 @@
 ## 카메라 동작 방식에 따른 차이
 
-카메라 조작을 위한 핵심 용어
+### 카메라 조작을 위한 핵심 용어
 ```
 DSLR 카메라 사용을 위해서 꼭 알아야 하는 카메라 조작 방법 및 용어 알려줘
 ```
+![카메라 용어](https://github.com/lormadus/chatgpt-handson/assets/14273433/64befe0e-0324-4006-b574-a1bfaecccd73)
+
+
 ### 예제1
 ```
 독수리가 날개를 펼치고 활강하는 장면을 초 근접 촬영으로, 셔터 스피드 1/5000초로 찍어줘
 ```
+![독수리](https://github.com/lormadus/chatgpt-handson/assets/14273433/7d5b5dcb-e652-4211-bbcb-faa2dbf333ef)
+
 
 ### 예제2
 ```
