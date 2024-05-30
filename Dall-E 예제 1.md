@@ -11,7 +11,13 @@ DSLR 카메라 사용을 위해서 꼭 알아야 하는 카메라 조작 방법 
 
 ### 예제2
 ```
+외과 수술실 내부 촬영해줘
+```
+![수술실](https://github.com/lormadus/chatgpt-handson/assets/14273433/57bb7a06-544e-4014-8079-37f93774a7bc)
+
+
+### 예제3
+```
 슬라이드 배경 이미지로 사용할 모던 미래지향적인 배경 이미지 그려줘.  16:9로 해줘
 ```
 ![dalle1](https://github.com/lormadus/chatgpt-handson/assets/14273433/113886d1-83db-4f19-8607-0e71f8beca5c)
-
