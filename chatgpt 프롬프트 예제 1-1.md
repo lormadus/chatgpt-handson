@@ -72,6 +72,11 @@ End Sub
 ```
 
 1. 생성된 VBA 스크립트를 빈 파워포인트 슬라이드에서 Alt+F11 키를 눌러 Visual Basic 편집기에서 메크로 실행을 위해 F5 클릭.
-https://github.com/lormadus/chatgpt-handson/blob/main/macro_1.png
+![macro_1](https://github.com/lormadus/chatgpt-handson/assets/14273433/6b3acc29-d207-414c-8973-f37bc9f13a39)
+
 2. 팝업창에서 메크로 이름을 demo로 입력하고 '만들기' 버튼 클릭
+![macro_2](https://github.com/lormadus/chatgpt-handson/assets/14273433/66bec705-4ab4-4680-b984-86cbeea43713)
+
 3. 기존 내용을 삭제 하고 해당 코드를 붙여넣고 실행 하면 파워포인트 슬라이드가 자동으로 생성됩니다.
+![macro_3](https://github.com/lormadus/chatgpt-handson/assets/14273433/83228679-2b93-48c4-83de-b980306ce256)
+
