@@ -70,3 +70,7 @@ Sub CreateAIHistoryPresentation()
     pptApp.ActivePresentation.SlideShowSettings.Run
 End Sub
 ```
+
+1. 생성된 VBA 스크립트를 빈 파워포인트 슬라이드에서 Alt+F11 키를 눌러 Visual Basic 편집기에서 '실행'버튼을 클릭
+
+2. 해당 코드를 붙여넣고 실행 하면 파워포인트 슬라이드가 자동으로 생성됩니다.
