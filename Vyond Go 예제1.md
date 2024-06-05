@@ -31,6 +31,8 @@ Team collaboration: Work well with the healthcare team and understand roles and 
 
 ![image](https://github.com/lormadus/chatgpt-handson/assets/14273433/a1c91ce1-cace-4cb5-9a0a-55a757337cb4)
 
-### 4. 간편 편집모드 수정 후 바로 적용 됨
+### 4. 간편 편집모드 수정 & 저장 후 바로 적용 됨
 ![image](https://github.com/lormadus/chatgpt-handson/assets/14273433/309243cc-91ba-496c-abb4-f0219fea1274)
 
+### 5. 최종 편집 후 다운로드 (테스트 계정은 720p 만 지원)
+![image](https://github.com/lormadus/chatgpt-handson/assets/14273433/2176d757-09a6-4094-bec8-bc7d11750687)
