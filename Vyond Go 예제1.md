@@ -5,12 +5,12 @@
 
 <br>
 
-2. 신입 간호사가 병원에서 적응하기 위한 방법을 동영상으로 만들어 봅니다.<br>
+### 2. 신입 간호사가 병원에서 적응하기 위한 방법을 동영상으로 만들어 봅니다.<br>
 Vibe: Informative <br>
 Format: Overview <br>
 Layout: Talking head <br>
 Language : Korean <br>
-<p>프롬프트 예제</p>
+## <p>프롬프트 예제</p>
 
 ```
 Young-Hee was a new nurse at a busy hospital.
@@ -27,7 +27,7 @@ Team collaboration: Work well with the healthcare team and understand roles and 
 
 ![image](https://github.com/lormadus/chatgpt-handson/assets/14273433/7271b845-27d5-40c9-a3c5-490c6f424ce1)
 
-3. 1분 정도 생성 후 간편 편집 모드에서 필요한 스크립트 수정 <br> 
+### 3. 1분 정도 생성 후 간편 편집 모드에서 필요한 스크립트 수정 <br> 
 
 ![image](https://github.com/lormadus/chatgpt-handson/assets/14273433/a1c91ce1-cace-4cb5-9a0a-55a757337cb4)
 
