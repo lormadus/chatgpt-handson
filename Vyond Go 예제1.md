@@ -9,7 +9,7 @@ Vibe: Informative <br>
 Format: Overview <br>
 Layout: Talking head <br>
 Language : Korean <br>
-[ 프롬프트 예제 ] 
+<p>프롬프트 예제</p>
 ```
 Young-Hee was a new nurse at a busy hospital.
 In her new role, she found it challenging to manage her tasks and handle the stress of patient care.
