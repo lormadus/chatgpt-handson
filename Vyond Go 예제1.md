@@ -24,6 +24,11 @@ Continuous learning: Participate in ongoing education and read current nursing m
 Team collaboration: Work well with the healthcare team and understand roles and responsibilities.
 ```
 <br>
-![image](https://github.com/lormadus/chatgpt-handson/assets/14273433/bc19b5ae-5f7d-49d5-831a-261a6eae2e3b)
+
+
+
+
+![image](https://github.com/lormadus/chatgpt-handson/assets/14273433/7271b845-27d5-40c9-a3c5-490c6f424ce1)
+
 
 
