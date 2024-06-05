@@ -3,7 +3,7 @@
 
 ![image](https://github.com/lormadus/chatgpt-handson/assets/14273433/b030b331-75c2-43fa-a689-f82ef0126d81)
 
-2. 신입 간호사가 병원에서 적응하기 위한 방법을 동영상으로 만들어 봅니다.
+2. 신입 간호사가 병원에서 적응하기 위한 방법을 동영상으로 만들어 봅니다.<br>
 [ 프롬프트 예제 ] 
 ```
 Young-Hee was a new nurse at a busy hospital.
