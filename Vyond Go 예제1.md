@@ -23,3 +23,5 @@ Stress management: Take short breaks and practice relaxation techniques.
 Continuous learning: Participate in ongoing education and read current nursing materials.
 Team collaboration: Work well with the healthcare team and understand roles and responsibilities.
 ```
+<br>
+![image](https://github.com/lormadus/chatgpt-handson/assets/14273433/34291ef8-52f0-498c-94ea-6130ceee409e)
